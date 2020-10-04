@@ -1,0 +1,6 @@
+fastcore
+fastai
+voila
+pillow>=7.1.0
+packaging
+ipywidgets==7.5.1
